@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Aprediendo a manejar fotos y videos</title>
+    </head>
+    <body>
+        <div>
+            <h1>Aprendiendo a utilizar imágenes</h1>
+            <img src="https://th.bing.com/th/id/OIP.EhDopBU1tEfUeQdaTCKEIwHaEK?pid=ImgDet&rs=1" alt="zelda/png" />
+        </div>
+        <div>
+            <h1>Aprendiendo a utilizar los vídeos</h1>
+        <video width="300" height="300" controls autoplay muted loop>
+            <source src="video5120896164220109430.mp4" type="video/mp4">
+        </video>
+        </div>
+        <div>
+            <h1>Aprendiendo a utilizar los audios</h1>
+            <audio controls autoplay muted loop>
+                <source src="AUD-20230119-WA0002_mixed.mp3" type="audio/mp3">
+            </audio>
+        </div>
+    </body>
+</html>
